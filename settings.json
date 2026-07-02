@@ -3,12 +3,12 @@
   "bot-account": {
     "username": "EtonGem",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "HealthSteaSmpl.aternos.me:46926",
     "port": 46926,
-    "version": "",
+    "version": "26.1",
     "try-creative": false
   },
   "position": {
